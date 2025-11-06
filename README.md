@@ -20,7 +20,7 @@
 
 ## 🎯 Executive Summary
 
-**QuantumML** is a cutting-edge **hybrid quantum-classical machine learning framework** that demonstrates the power of combining quantum computing with deep neural networks. This is **production-grade research code** showcasing:
+**Huantum** is a cutting-edge **hybrid quantum-classical machine learning framework** that demonstrates the power of combining quantum computing with deep neural networks. This is **production-grade research code** showcasing:
 
 - ✨ **Parameterized Quantum Circuits (PQC)** as learnable quantum neural layers
 - 🔬 **Variational Quantum Eigensolver (VQE)-inspired** training approach
